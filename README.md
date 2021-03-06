@@ -21,7 +21,7 @@ The implementation requires 2 cores on the microcontroller and has been tested o
 
 
 
-You will want to adjust the config file to operate at 160Mhz or higher  by setting the `iotwx_max_frequency` parameter in [`data/config.json`](./data/config.json):
+You will want to adjust the config file to operate at 160Mhz or higher  by setting the `iotwx_max_frequency` parameter in [`data/config.json`](./data/config.json).  Testing has only been performed at 240Mhz:
 
 ```json
     "iotwx_max_frequency":"240"
