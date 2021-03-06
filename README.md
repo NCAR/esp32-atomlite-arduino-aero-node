@@ -11,7 +11,7 @@ The basic operation requires the digital compass heading to be used for wind dir
 This implementation depends on two sensors:
 
 * [Adafruit LSM303AGR_Mag](https://www.arduino.cc/reference//en/libraries/adafruit-lsm303agr-mag/), the specific sensor used is the Qwiic LSM303d that can be found [here](https://www.mouser.com/ProductDetail/Adafruit/4413?qs=sGAEpiMZZMu3sxpa5v1qrs7aFKzpKeg1iy7itN8NqEg%3D).  That sensor requires an inexpensive [Qwicc to Grove adapter cable](https://www.mouser.com/ProductDetail/Adafruit/4424?qs=CUBnOrq4ZJyUa%252BR7VYX6Vw%3D%3D) to work on IoTwx.
-* [SeeedStudio Grove Infrared Reflective Sensor](https://wiki.seeedstudio.com/Grove-Infrared_Reflective_Sensor/); if you are using this sensor on the GPIO if the Atom Lite, we recommend you purchase the [4 pin Male Jumper to Grove Adapter cable]((https://www.mouser.com/ProductDetail/Seeed-Studio/110990210?qs=1%252B9yuXKSi8A2O44lPDM%252BLw%3D%3D), though you are free to find other solutions.
+* [SeeedStudio Grove Infrared Reflective Sensor](https://wiki.seeedstudio.com/Grove-Infrared_Reflective_Sensor/); if you are using this sensor on the GPIO if the Atom Lite, we recommend you purchase the [4 pin Male Jumper to Grove Adapter cable](https://www.mouser.com/ProductDetail/Seeed-Studio/110990210?qs=1%252B9yuXKSi8A2O44lPDM%252BLw%3D%3D), though you are free to find other solutions.
 
 
 
